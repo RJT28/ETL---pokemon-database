@@ -46,7 +46,7 @@ db_host = 'localhost'
 db_port = '5432'
 db_name = 'pokemon_db'
 db_user = 'postgres'
-db_password = 'Thinksafe28!'
+db_password = 'Your_password'
 
 # Connect to the PostgreSQL database
 conn = psycopg2.connect(
